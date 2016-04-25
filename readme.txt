@@ -1,4 +1,5 @@
 === WS Force Login Page ===
+Contributors: silvermuru
 Tags: login, restrict
 Requires at least: 4.4
 Tested up to: 4.5
