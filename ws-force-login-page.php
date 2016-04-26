@@ -15,7 +15,7 @@ class WS_Force_Login_Page {
     }
 
     public function check_if_user_logged_in(){
-        if (!is_super_admin()) {
+        if (!is_user_logged_in()) {
 			global $pagenow;
 			if ( 'wp-login.php' !== $pagenow ){
 				wp_redirect(wp_login_url());
