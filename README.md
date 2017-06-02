@@ -1,6 +1,7 @@
 # WS Force Login Page
 
 Version: 2.4.6
+[Homepage](http://www.silvermuru.ee/en/wordpress/plugins/ws-force-login-page/)
 
 Redirecting user to login page if not logged in, working also with domains what includes umlaut letters like ö, ä, õ, ü
 
