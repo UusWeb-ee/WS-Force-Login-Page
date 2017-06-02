@@ -26,7 +26,12 @@ To remove redirection to login page the plugin needs to be deactivated
 
 ## Screenshots
 
+![alt text](https://www.silvermuru.ee/wp-content/uploads/2016/04/ws-force-login-page-admin.png "Settings page for the message")
+
 1. Settings page for the message
+
+![alt text](https://www.silvermuru.ee/wp-content/uploads/2016/04/ws-force-login-page-message.png "Settings page for the message")
+
 2. Login page with message
 
 
