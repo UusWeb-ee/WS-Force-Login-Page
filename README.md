@@ -1,7 +1,7 @@
 # WS Force Login Page
 
-Version: 2.4.6
-[Homepage](http://www.silvermuru.ee/en/wordpress/plugins/ws-force-login-page/)
+* Version: 2.4.6
+* [Homepage](http://www.silvermuru.ee/en/wordpress/plugins/ws-force-login-page/)
 
 Redirecting user to login page if not logged in, working also with domains what includes umlaut letters like ö, ä, õ, ü
 
@@ -30,7 +30,7 @@ To remove redirection to login page the plugin needs to be deactivated
 
 1. Settings page for the message
 
-![alt text](https://www.silvermuru.ee/wp-content/uploads/2016/04/ws-force-login-page-message.png "Settings page for the message")
+![alt text](https://www.silvermuru.ee/wp-content/uploads/2016/04/ws-force-login-page-message.png "Login page with message")
 
 2. Login page with message
 
