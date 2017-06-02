@@ -3,7 +3,7 @@
 * Plugin Name: WS Force Login Page
 * Plugin URI: http://www.silvermuru.ee/en/wordpress/plugins/ws-force-login-page/
 * Description: Redirecting user to login page if not logged in and when needed the custom message is shown
-* Version: 2.3.3
+* Version: 2.4.6
 * Author: WebShark
 * Author URI: http://www.webshark.ee/
 * Text Domain: ws-force-login-page
@@ -46,7 +46,7 @@ class WS_Force_Login_Page {
 }
 
 if ( is_admin() ) {
-	require_once( dirname(__file__).'/admin/ws-force-login-page-admin.php' );
+	require plugin_dir_path( __FILE__ ) . '/admin/ws-force-login-page-admin.php';
 }
 
 $wpse_ws_force_login_page_plugin = new WS_Force_Login_Page();

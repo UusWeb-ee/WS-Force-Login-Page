@@ -2,8 +2,8 @@
 Contributors: silvermuru
 Tags: admin, administration, access, closed, force user login, hidden, login, maintenance mode, under construction, password, privacy, private, protected, registered only, restrict, restricted, testing
 Requires at least: 4.4
-Tested up to: 4.6
-Stable tag: 2.3.3
+Tested up to: 4.8
+Stable tag: 2.4.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ Redirecting user to login page if not logged in, working also with domains what 
 
 == Description ==
 
-WS Force Login Page force users who are not logged in by redirect into login page, this way it is good tool for developers to install sites which are in development process by restrict access to site and its content. Working also with domains what includes umlaut letters like ö, ä, õ, ü
+WS Force Login Page force users who are not logged in by redirect into login page, this way it is good tool for developers to install sites which are in development process by restrict access to site and its content. Or when you want to put all site articles under password this plugin will do this! Working also with domains what includes umlaut letters like ö, ä, õ, ü
 
 Suitable also for putting site to maintenance mode and show custom message in login view.
 
@@ -36,11 +36,42 @@ To remove redirection to login page the plugin needs to be deactivated
 
 == Changelog ==
 
+= 2.4.6 =
+
+Tested up to Wordpress 4.8 version
+
+= 2.4.5 =
+
+Tested up to Wordpress 4.7 version
+
+= 2.4.4 =
+
+Wordpress 4.6.1 tested
+
+= 2.4.3 =
+
+Code refactory
+
+= 2.4.2 =
+
+Improvement
+
+
+= 2.4.1 =
+
+Bug fix
+
+
+= 2.4 =
+
+Admin side code refactoring
+
+
 = 2.3.3 =
 
 Plugin improvement
 
-* Plugin data will be deleted from database after the plugin are deleted
+* Plugin data will be deleted from database after the plugin is deleted
 
 
 = 2.3.2 =
@@ -99,17 +130,26 @@ Security improvements.
 
 
 = 1.1 =
-* Code refactoring
+Code refactoring
 
 
 = 1.0 =
-* First version
+First version
 
 == Upgrade Notice ==
 
+= 2.4.3 =
+
+Improvements
+
+= 2.4 =
+
+Improvements
+
+
 = 2.3.3 =
 
-Improvement
+Improvements
 
 
 = 2.3.1 =
